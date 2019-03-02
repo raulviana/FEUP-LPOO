@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.iml" filepath="$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.raulviana.hero.hero.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp2.iml" filepath="$PROJECT_DIR$/tp2.iml" />
+    </modules>
+  </component>
+</project>

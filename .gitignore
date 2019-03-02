@@ -1,0 +1,5 @@
+./tp2/.idea
+./.gradle
+./out/
+./buld/
+./*.iml
