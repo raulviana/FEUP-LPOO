@@ -49,7 +49,6 @@ public class Arena {
         }
         return coins;
     }
-
     private List<Monster> createMonsters(){
         Random random = new Random();
         ArrayList<Monster> monsters = new ArrayList<>();
