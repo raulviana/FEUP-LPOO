@@ -1,0 +1,4 @@
+Pathfinding A* Heuristic Manhatten:
+
+https://www.growingwiththeweb.com/2012/06/a-pathfinding-algorithm.html
+https://qiao.github.io/PathFinding.js/visual/
