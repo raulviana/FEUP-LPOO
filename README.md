@@ -103,15 +103,15 @@ A figura a seguir mostra como as funções do padrão foram mapeadas para as cla
 
 Estas classes podem ser encontradas nos seguintes ficheiros:
 
-* ![Element](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Element.java)
+* [Element](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Element.java)
 
-* ![Defense](src/main/java/Defense.java)
+* [Defense](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Defense.java)
 
-* ![Wall](src/main/java/Wall.java)
+* [Wall](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Wall.java)
 
-* ![Enemy](src/main/java/Enemy.java)
+* [Enemy](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Enemy.java)
 
-* ![Arena](src/main/java/Arena.java)
+* [Arena](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Arena.java)
 
 ###### Consequências
 
