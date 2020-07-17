@@ -8,10 +8,10 @@ Repository for "Object Oriented Programming Laboratory" pratical classes course
 
 ### LPOO_411 Eternal Defense
 
-* A ideia deste projeto é criar um jogo do tipo Tower Defense, existente num universo em eterna evolução pelo tempo, tendo como principal objetivo o uso de torres de defesa e armadilhas, colocadas de forma estratégica pelo jogador, em prol da defesa do seu castelo contra vagas progressivamente mais difíceis de inimigos.
+* A ideia deste projeto é criar um jogo do tipo *Tower Defense*, existente num universo em eterna evolução pelo tempo, tendo como principal objetivo o uso de torres de defesa e armadilhas, colocadas de forma estratégica pelo jogador, em prol da defesa do seu castelo contra vagas progressivamente mais difíceis de inimigos.
 * Á medida que o jogador vai progredindo no jogo e derrotando vagas e vagas de inimigos, vai evoluindo no tempo, passando pelas várias gerações (Pré-história -> Medieval -> Moderna -> Futurística) passando a possuir, em cada geração, torres, armadilhas e inimigos relacionados com esse tempo.
 
-Este projeto foi desenvolvido por José Rodrigues (up201708806) e Raul Viana (up201208089) na UC de LPOO 2018⁄19.
+Este projeto foi desenvolvido por José Rodrigues (up201708806) e Raul Viana (up201208089) na Unidade Currricular de Laboratório de Programação Orientada a Objetos 2018⁄19.
 
 #### Game Summary
 O jogo começa com uma janela onde é pedido ao jogador que introduza o nome que pretende utilizar e que escolha a dificuldade.<br>
