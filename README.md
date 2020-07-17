@@ -24,26 +24,26 @@ Posteriormente o jogador é levado para o mapa de jogo, onde terá que comprar o
 
 É colocado ao dispor do jogador um menu com as torres e as armadilhas disponíveis e o seu preço.<br> 
 
-![Fase de colocação das defesas - Ponto permitido](images/Placing_Menu_Can_Place.png)<br>
+![Fase de colocação das defesas - Ponto permitido](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Placing_Menu_Can_Place.png)<br>
 
 Existem situações em que não é permitido ao jogador colocar uma defesa num determinado ponto, tais como bloquando entradas,
  colocando defesas em cima de paredes ou ainda quando não tem dinheiro suficiente. <br>
  
-![Fase de colocação das defesas - Ponto não permitido](images/Placing_Menu_Cant_Place.png)
+![Fase de colocação das defesas - Ponto não permitido](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Placing_Menu_Cant_Place.png)
 
 Exste ainda um quadro informativo na zona inferior da janela de jogo que contém as informações pertinentes para optimizar a colocação da torres e das armadilhas em conformidade com os tipos de inimigos e a geração em que o jogo se encontra.
 Depois de colocadas todas as defesas que o jogador escolheu o jogo passa para a fase de simulação, em que vagas de inimigos tentam chegar à base e destruí-la.
 Entre cada ronda o jogador tem a possibilidade de acrescentar defesas, se dispuser de dinheiro suficiente.<br>
 
-![Fase de Simulação](images/Game_Ongoing.png)
+![Fase de Simulação](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Game_Ongoing.png)
 
 No fim do jogo é mostrada uma janela com o resultado final. Vitória, no caso do jogador ter conseguido defender a base através das gerações:<br>
 
-![Ecrân de fim de jogo - Vitória](images/Game_End_Win.png)<br>
+![Ecrân de fim de jogo - Vitória](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Game_End_Win.png)<br>
 
 Ou derrota, na eventualidade de a sua base não ter resistido aos ataques inimigos:<br>
 
-![Ecrân de fim de jogo - Derrota](images/Game_End_Lost.png)
+![Ecrân de fim de jogo - Derrota](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Game_End_Lost.png)
 
 #### Implemented Features
 
@@ -75,7 +75,7 @@ de forma a permitir a comparação e um ranking dos melhores jogadores.
 Foram implementados variados testes unitários, de forma a cobrir a maioria do código. As partes mais importantes e sujeitas 
 a erro foram cobertas pelos testes unitários.
 
- ![Code Coverage](images/codecoveragereport.png)
+ ![Code Coverage](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/codecoveragereport.png)
 
 Tentámos posteriormente aplicar *"mutation tests"*, mas infelizmente não foi possível correr o comando *gradlew pitest* pois irremediavelmente 
 retornou um erro de *"unresolved symbol"* em relação às dependências de *"com.intellij.uiDesigner.core"*. 
@@ -99,7 +99,7 @@ Nós aplicamos o padrão **Factory**. Este padrão permite definir uma interface
 
 A figura a seguir mostra como as funções do padrão foram mapeadas para as classes.
 
-![UML](images/UML_Factory.png)
+![UML](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/UML_Factory.png)
 
 Estas classes podem ser encontradas nos seguintes ficheiros:
 
