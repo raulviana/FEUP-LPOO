@@ -16,11 +16,11 @@ Este projeto foi desenvolvido por José Rodrigues (up201708806) e Raul Viana (up
 #### Game Summary
 O jogo começa com uma janela onde é pedido ao jogador que introduza o nome que pretende utilizar e que escolha a dificuldade.<br>
 
-![Menu Inicial](images/Starting_Menu.png)
+![Menu Inicial](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Starting_Menu.png)
 
 Posteriormente o jogador é levado para o mapa de jogo, onde terá que comprar o material defensivo, composto por torres e armadilhas e colocá-lo nas posições que achar mais vantajosas.<br>
 
-![Fase de colocação das dafesas](images/Game_Start.png)
+![Fase de colocação das dafesas](https://github.com/raulviana/FEUP-LPOO/blob/master/project/images/Game_Start.png)
 
 É colocado ao dispor do jogador um menu com as torres e as armadilhas disponíveis e o seu preço.<br> 
 
