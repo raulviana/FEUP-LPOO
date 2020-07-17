@@ -103,7 +103,7 @@ A figura a seguir mostra como as funções do padrão foram mapeadas para as cla
 
 Estas classes podem ser encontradas nos seguintes ficheiros:
 
-* ![Element](src/main/java/Element.java)
+* ![Element](https://github.com/raulviana/FEUP-LPOO/blob/master/project/src/main/java/Element.java)
 
 * ![Defense](src/main/java/Defense.java)
 
