@@ -1,6 +1,6 @@
 # Object Oriented Programming Laboratory
 
-Repository for "Object Oriented Programming Laboratory" pratical classes course
+Repository for "Object Oriented Programming Laboratory" [(**LPOO**)](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=420000) pratical classes course
 
 ## Project
 
